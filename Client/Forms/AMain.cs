@@ -10,7 +10,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using Client;
 using System.Linq;
-// Test comment
+
 namespace Launcher
 {
     public partial class AMain : Form
